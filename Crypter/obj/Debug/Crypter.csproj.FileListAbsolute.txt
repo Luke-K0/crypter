@@ -1,0 +1,6 @@
+C:\git\Lukasz\crypter\Crypter\bin\Debug\Crypter.exe.config
+C:\git\Lukasz\crypter\Crypter\bin\Debug\Crypter.exe
+C:\git\Lukasz\crypter\Crypter\bin\Debug\Crypter.pdb
+C:\git\Lukasz\crypter\Crypter\obj\Debug\Crypter.csprojResolveAssemblyReference.cache
+C:\git\Lukasz\crypter\Crypter\obj\Debug\Crypter.exe
+C:\git\Lukasz\crypter\Crypter\obj\Debug\Crypter.pdb
